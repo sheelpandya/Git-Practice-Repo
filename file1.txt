@@ -1,1 +1,1 @@
-This is file 1 changed for feature3 and master rebase.
+This is file 1 changed for feature3.
