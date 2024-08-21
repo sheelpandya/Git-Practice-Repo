@@ -1,1 +1,1 @@
-This is file 1 changed from master.
+This is file 1 changed for feature 2.
